@@ -33,12 +33,12 @@
 
 // Palette.
 	$palette: (
-		bg:					#ffffff,
-		bg-alt:				#f5f6f7,
-		fg:					#7f888f,
-		fg-bold:			#3d4449,
-		fg-light:			#9fa3a6,
-		border:				rgba(210,215,217,0.75),
+		bg:					#161616,
+		bg-alt:				#1f1f1f,
+		fg:					#dddddd,
+		fg-bold:			#d6d6d6,
+		fg-light:			#ffffff,
+		border:				rgba(0, 80, 184, 0.75),
 		border-bg:			transparentize(#e6ebed, 0.75),
-		accent:				#f56a6a
+		accent:				rgba(0, 80, 184, 1)
 	);
